@@ -1,0 +1,23 @@
+Italias Juno
+2
+Sandwiches
+3
+Big Turkey
+3.59
+Big turkey sandwich
+Ham sandwich
+4.77
+Big ham sandwich
+Avocado veggie
+5.00
+Veggie sandwich delight
+Drinks
+2
+Coca-Cola
+2.45
+Fresh cold cola
+Sprite
+1.99
+Sprite cola cold
+
+

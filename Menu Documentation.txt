@@ -1,0 +1,27 @@
+Menu Name
+Number of Categories - Integer
+Category Name
+Number of Food Items - Integer
+Food Item Name
+Food Item Price - Double
+Food Item Description
+Food Item Name
+Food Item Price - Double
+Food Item Description
+Food Item Name
+Food Item Price - Double
+Food Item Description
+etc.
+Category Name
+Number of Food Items - Integer
+Food Item Name
+Food Item Price - Double
+Food Item Description
+Food Item Name
+Food Item Price - Double
+Food Item Description
+Food Item Name
+Food Item Price - Double
+Food Item Description
+etc.
+
